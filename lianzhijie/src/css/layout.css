@@ -97,17 +97,35 @@ span{display:inline-block;}
 }
 
 .img-btn-list > span  {
-    display: inline-block;
+/*     display: inline-block;
     width: 15px;
     height: 15px;
     border-radius: 12px;
     margin: 0 5px;
     background:white;
-    cursor: pointer;
+    cursor: pointer; */
+    
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    font-size: 10px;
+    background: #cccaca;
+    border: 1px solid #ffffff;
+    color: #666666;
+    text-align: center;
+    margin-right: 8px;
+    font-family: Verdana;
+  
+
+    -webkit-text-size-adjust: none
 }
 
 .img-btn-list > span.current {
     background:#2f5dc3;
+    background: #CC0000;
+    border: 1px solid #FF0000;
+    color: #000000;
+    cursor: default;
 }
 .font p{font-size:24px; color:#152c4e; margin:35px 0 0 0; line-height:20px;}
 .font h6{color:#c7c7c7; font-size:18px; margin:10px 0 0 0;}
