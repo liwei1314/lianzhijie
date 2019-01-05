@@ -10,9 +10,9 @@
  #mesbook1_c #mesbook1_cBtns input, #mesbook1 #mesbook1Btns input {margin-right:20px;}
  /*rollup.css*/
  #roll_top,#fall,#ct{position:relative; cursor:pointer;height:72px;width:26px}
- #roll_top{background:url(../images/top.gif) no-repeat}
+/*  #roll_top{background:url(../images/top.gif) no-repeat}
  #fall{background:url(../images/top.gif) no-repeat 0 -80px}
- #ct{background:url(../images/top.gif) no-repeat 0 -40px}
+ #ct{background:url(../images/top.gif) no-repeat 0 -40px} */
  #roll{display:block; z-index:999; width:15px;margin-right:-500px;position:fixed;right:50%;top:50%;_margin-right:-505px;_position:absolute;_margin-top:300px;_top:expression(eval(document.documentElement.scrollTop))}
  
  

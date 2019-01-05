@@ -7,7 +7,7 @@
 
 function bannerListFn(a,b,c,d,e,f){
     var $bannerMaxWapDom=a;
-    var windowWidth=$(window).width();
+    var windowWidth=$(window).width()*0.831;
     var timeShow=0;
     var array=0;
     var timeOff=0;

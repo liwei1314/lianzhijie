@@ -80,6 +80,7 @@ span{display:inline-block;}
     right: 30px;
     background:url(../imgs/right-1.png);
     cursor: pointer;
+    z-index: 10000;
 }
 
 .left-btn {
