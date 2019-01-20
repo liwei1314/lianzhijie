@@ -7,7 +7,7 @@
 
 function bannerListFn(a,b,c,d,e,f){
     var $bannerMaxWapDom=a;
-    var windowWidth=$(window).width()*0.831;
+    var windowWidth=$(window).width()*0.632;
     var timeShow=0;
     var array=0;
     var timeOff=0;
@@ -97,5 +97,5 @@ function bannerListFn(a,b,c,d,e,f){
     $bannerMaxWapDom.hover(function(){
         clearInterval(timeOff);
     },function(){(f) ? setTime() : setTime;});
-}
+} 
 

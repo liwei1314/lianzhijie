@@ -7,7 +7,7 @@ $(function () {
         3000,
         true
     );
-
+  /*   $('.banner>ul>li').width()*0.8; */
 });
 
 $(document).ready(function(){

@@ -7,7 +7,7 @@
 
 .bg{background:none repeat scroll 0 0 #fff;}
 .ban{ width:100%; overflow:hidden;}
-.banner{margin: auto;/* display:block; */width: 10.5rem;}
+.banner{margin: auto;/* display:block; */width: 8rem;}
 .ban_l{height:20px;left:50%;margin-left:-480px;text-align:center;top:456px;width:960px;z-index:999;}
 .ban_l a{background:url("../images/ban01.png") no-repeat scroll center 0 rgba(0,0,0,0);display:inline-block;height:16px;padding:0 11px;width:16px;}
 .ban_l a:hover,.ban_l a.cur{background:url("../images/ban02.png") no-repeat scroll center 0 rgba(0,0,0,0);}
